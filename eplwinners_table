@@ -1,0 +1,10 @@
+season	TotalPoints	team	HomeWins	HomeDraws	HomeLoss	AwayWins	AwayDraws	AwayLoss	TotalWins	TotalDraws	TotalLoss	HomeGoals	HomeGoalsconceded	AwayGoals	AwayGoalsconceded	TotalGoalsScored	TotalGoalsConceded
+2008/2009	90	Manchester United	16	2	1	12	4	3	28	6	4	43	13	25	11	68	24
+2009/2010	86	Chelsea	17	1	1	10	4	5	27	5	6	68	14	35	18	103	32
+2010/2011	80	Manchester United	18	1	0	5	10	4	23	11	4	49	12	29	25	78	37
+2011/2012	89	Manchester United	15	2	2	13	3	3	28	5	5	52	19	37	14	89	33
+2011/2012	89	Manchester City	18	1	0	10	4	5	28	5	5	55	12	38	17	93	29
+2012/2013	89	Manchester United	16	0	3	12	5	2	28	5	5	45	19	41	24	86	43
+2013/2014	86	Manchester City	17	1	1	10	4	5	27	5	6	63	13	39	24	102	37
+2014/2015	87	Chelsea	15	4	0	11	5	3	26	9	3	36	9	37	23	73	32
+2015/2016	81	Leicester City	12	6	1	11	6	2	23	12	3	35	18	33	18	68	36
