@@ -2,7 +2,7 @@
 EDA using SQL for Euro Football dataset between 2008-2016
 
 Description
-The ultimate Soccer database for data analysis and machine learning
+The Soccer database for data analysis and machine learning.
 
 +25,000 matches
 +10,000 players
