@@ -32,5 +32,5 @@ When you have a look at the database, you will notice foreign keys for players a
 
 # **Data Analysis**:
 The Euro data set was analyzed into the following:
-1. EPL Winners table : 
-2. Data Visualizations for the champions of top tier divisions :
+1. [EPL Winners table] (https://github.com/salilc/EuroEDA/blob/master/eplwinners_table)
+2. [Data Visualizations for the champions of top tier divisions]
