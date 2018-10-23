@@ -30,3 +30,7 @@ http://sofifa.com/ : players and teams attributes from EA Sports FIFA games. FIF
 
 When you have a look at the database, you will notice foreign keys for players and matches are the same as the original data sources. I have called those foreign keys "api_id".
 
+# **Data Analysis**:
+The Euro data set was analyzed into the following:
+1. EPL Winners table : 
+2. Data Visualizations for the champions of top tier divisions :
