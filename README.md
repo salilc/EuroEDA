@@ -33,6 +33,6 @@ When you have a look at the database, you will notice foreign keys for players a
 # **Data Analysis**:
 The Euro data set was analyzed into the following:
 1. [EPL Champions table](https://github.com/salilc/EuroEDA/blob/master/eplwinners_table)
-2. [Goals conceded by winners of top 5 leagues]()
-3. [Draws by winners of top 5 leagues]()
-4. []()
+2. [Goals conceded by winners of top 5 leagues](https://github.com/salilc/EuroEDA/blob/master/goals_conceded_winners.png)
+3. [Draws by winners of top 5 leagues](https://github.com/salilc/EuroEDA/blob/master/draws_champions.png)
+4. [Home Wins by champions of top 5 leagues with goals scored](https://github.com/salilc/EuroEDA/blob/master/homewins_league_goals.png)
