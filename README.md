@@ -20,15 +20,13 @@ Source : bbc.co.uk
 
 Original Data Source:
 
-You can easily find data about soccer matches but they are usually scattered across different websites. A thorough data collection and processing has been done to make your life easier. I must insist that you do not make any commercial use of the data. The data was sourced from:
+http://football-data.mx-api.enetscores.com/ : scores, lineup, team formation and events.
 
-http://football-data.mx-api.enetscores.com/ : scores, lineup, team formation and events
-
-http://www.football-data.co.uk/ : betting odds. Click here to understand the column naming system for betting odds:
+http://www.football-data.co.uk/ : betting odds. 
 
 http://sofifa.com/ : players and teams attributes from EA Sports FIFA games. FIFA series and all FIFA assets property of EA Sports.
 
-When you have a look at the database, you will notice foreign keys for players and matches are the same as the original data sources. I have called those foreign keys "api_id".
+ It is seen that the foreign keys for players and matches are the same as the original data sources. They are called "api_id"s.
 
 # **Data Analysis**:
 The Euro data set was analyzed into the following categories:
